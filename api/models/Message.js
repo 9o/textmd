@@ -15,7 +15,7 @@ module.exports = {
       type: 'string'
     },
     conversationId: {
-      type: 'string'
+      type: 'string',
       collection: 'conversation',
       via: 'id'
     },
