@@ -6,10 +6,9 @@
  */
 
 module.exports = {
-
   attributes: {
     messages: {
-      model: 'user'
+      model: 'message'
     }
   }
 };
